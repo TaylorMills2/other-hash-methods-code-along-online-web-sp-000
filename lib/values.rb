@@ -1,6 +1,6 @@
 require 'pry'
 
- groceries.values
+ 
 # groceries = {
 #  dairy: ["milk", "yogurt", "cheese"],
 #  vegetable: ["carrots", "broccoli", "cucumbers"],
