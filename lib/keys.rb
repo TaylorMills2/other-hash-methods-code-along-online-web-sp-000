@@ -1,6 +1,6 @@
 require 'pry'
 
-groceries.keys
+ groceries.keys
 # groceries = {
 #  dairy: ["milk", "yogurt", "cheese"],
 #  vegetable: ["carrots", "broccoli", "cucumbers"],
@@ -9,5 +9,5 @@ groceries.keys
 # }
 
 def get_the_keys(groceries)
-  #code your solution here!
+  
 end
